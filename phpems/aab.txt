@@ -1,0 +1,204 @@
+Array
+(
+    [ehtype] => 2
+    [ehtimelist] => a:1:{i:8462;s:10:"1470642518";}
+    [ehexam] => test教师端试卷3
+    [ehexamid] => 12
+    [ehbasicid] => 4
+    [ehquestion] => Array
+        (
+            [questions] => Array
+                (
+                    [1] => Array
+                        (
+                            [8462] => Array
+                                (
+                                    [questionid] => 8462
+                                    [questiontype] => 1
+                                    [question] => &lt;p&gt;test1&lt;/p&gt;
+                                    [questionuserid] => 10
+                                    [questionusername] => teacher
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;&lt;span style=&quot;line-height: 20.8px;&quot;&gt;test1&lt;/span&gt;&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => A
+                                    [questiondescribe] => &lt;p&gt;&lt;span style=&quot;line-height: 20.8px;&quot;&gt;test1&lt;/span&gt;&lt;/p&gt;
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 知识点名称1
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1470380625
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                        )
+
+                )
+
+            [questionrows] => Array
+                (
+                )
+
+        )
+
+    [ehsetting] => Array
+        (
+            [examid] => 12
+            [examsubject] => 1
+            [exam] => test教师端试卷3
+            [examsetting] => Array
+                (
+                    [examtime] => 60
+                    [comfrom] => 
+                    [score] => 100
+                    [passscore] => 100
+                    [questypelite] => Array
+                        (
+                            [1] => 1
+                            [2] => 1
+                            [3] => 1
+                            [4] => 1
+                            [5] => 1
+                            [6] => 1
+                            [7] => 1
+                        )
+
+                    [questype] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [number] => 1
+                                    [score] => 100
+                                    [describe] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                )
+
+                        )
+
+                )
+
+            [examquestions] => Array
+                (
+                    [1] => Array
+                        (
+                            [questions] => ,8462,
+                            [rowsquestions] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [questions] => 
+                            [rowsquestions] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [questions] => 
+                            [rowsquestions] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [questions] => 
+                            [rowsquestions] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [questions] => 
+                            [rowsquestions] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [questions] => 
+                            [rowsquestions] => 
+                        )
+
+                    [7] => Array
+                        (
+                            [questions] => 
+                            [rowsquestions] => 
+                        )
+
+                )
+
+            [examscore] => 
+            [examstatus] => 0
+            [examtype] => 2
+            [examauthorid] => 10
+            [examauthor] => teacher
+            [examtime] => 1470380748
+            [examkeyword] => 
+            [examdecide] => 0
+        )
+
+    [ehuseranswer] => Array
+        (
+            [8462] => A
+        )
+
+    [ehstarttime] => 1470642511
+    [ehtime] => 13
+    [ehscore] => 100.0
+    [ehscorelist] => Array
+        (
+            [8462] => 100
+        )
+
+    [ehuserid] => 1
+    [ehusername] => peadmin
+    [ehdecide] => 0
+    [ehstatus] => 1
+)
